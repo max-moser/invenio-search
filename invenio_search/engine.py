@@ -1,12 +1,7 @@
-# -*- coding: utf-8 -*-
-#
-# This file is part of Invenio.
-# Copyright (C) 2015-2018 CERN.
-# Copyright (C)      2022 University Münster.
-# Copyright (C)      2022 TU Wien.
-#
-# Invenio is free software; you can redistribute it and/or modify it
-# under the terms of the MIT License; see LICENSE file for more details.
+# SPDX-FileCopyrightText: 2015-2018 CERN.
+# SPDX-FileCopyrightText: 2022 University Münster.
+# SPDX-FileCopyrightText: 2022 TU Wien.
+# SPDX-License-Identifier: MIT
 
 """Transparency module for importing the chosen search engine.
 
